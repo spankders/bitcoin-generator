@@ -19,6 +19,8 @@ Just write the bitcoin wallet into config.php and start earning.
 REQUIREMENTS:
 – PHP (>= 5.6)
 - Wallet blockchain.info online wallet (BITCOIN)
+
+
 This is Sample code
 
 More info: https://madisonscripts.blogspot.com/2019/02/bitcoin-generator-script.html
